@@ -1,0 +1,9 @@
+.navbar {
+    background: rgba(0,0,0,0.5) !important;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+a{
+    color: white;
+}
